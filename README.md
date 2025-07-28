@@ -1,2 +1,2 @@
-# AmahJO.github.io
+# amahjo.github.io
 The website for Practice for Everything
